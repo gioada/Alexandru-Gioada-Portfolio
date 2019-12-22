@@ -1,0 +1,33 @@
+﻿  CandlestickCharting.cpp
+  DataManager.cpp
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(133,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(137,48): warning C4244:  'argument': conversion from 'float' to '_Ty', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(137,48): warning C4244:         with
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(137,48): warning C4244:         [
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(137,48): warning C4244:             _Ty=int
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(137,48): warning C4244:         ]
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(146,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(150,44): warning C4244:  'argument': conversion from 'float' to '_Ty', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(150,44): warning C4244:         with
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(150,44): warning C4244:         [
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(150,44): warning C4244:             _Ty=int
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(150,44): warning C4244:         ]
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(185,26): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(233,26): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(247,12): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(272,24): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(352,25): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(352,25): warning C4244:         with
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(352,25): warning C4244:         [
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(352,25): warning C4244:             _Ty=int
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(352,25): warning C4244:         ]
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(316,9): warning C4101:  'rs': unreferenced local variable
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(313,19): warning C4101:  'prevloss': unreferenced local variable
+  DayData.cpp
+  DisplayManager.cpp
+  FileManager.cpp
+  Generating Code...
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(313,9): warning C4101:  'prevgain': unreferenced local variable
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(212): warning C4715:  'DataManager::ReturnValueIndex': not all control paths return a value
+X:\Other\asdfg\Coursework Final Version\CandlestickCharting\DataManager.cpp(257): warning C4715:  'DataManager::ReturnValueIndex': not all control paths return a value
+  CandlestickCharting.vcxproj -> X:\Other\asdfg\Coursework Final Version\x64\Debug\CandlestickCharting.exe
